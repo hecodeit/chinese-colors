@@ -1,0 +1,24 @@
+{
+  "name": "chinese-colors",
+  "version": "1.0.0",
+  "description": "Chinese Traditional Colors",
+  "main": "./colors.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecodeit/chinese-colors.git"
+  },
+  "keywords": [
+    "chinese",
+    "colors",
+    "traditional"
+  ],
+  "author": "hecodeit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hecodeit/chinese-colors/issues"
+  },
+  "homepage": "https://github.com/hecodeit/chinese-colors#readme"
+}
